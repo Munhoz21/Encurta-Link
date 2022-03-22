@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/encurta-link/static/css/main.07cb99be.css",
+    "main.js": "/encurta-link/static/js/main.fb497238.js",
+    "index.html": "/encurta-link/index.html",
+    "main.07cb99be.css.map": "/encurta-link/static/css/main.07cb99be.css.map",
+    "main.fb497238.js.map": "/encurta-link/static/js/main.fb497238.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07cb99be.css",
+    "static/js/main.fb497238.js"
+  ]
+}
